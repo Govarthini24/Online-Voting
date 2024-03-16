@@ -322,7 +322,7 @@ async function submitVote(userID) {
       message: "Your vote successfully submitted to " +candidateData.candidate_name+" and the Party Name is "+candidateData.party_name+".",
       to_email: userData.email_id,
       });
-      if(userID==="3"){        
+      if(userID==="5"){        
       window.location.href = "dashboardpage.html";}else{
       window.location.href = "index.html";
       }
