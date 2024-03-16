@@ -1,2 +1,2 @@
-# Shiva_Project
-This is the college Project for Shiva Sister Daughter
+# Online Voting_Project
+This is the college Project done on 2024
