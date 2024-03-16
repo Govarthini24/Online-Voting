@@ -343,7 +343,7 @@ let userID = sessionStorage.userID;
 
 if (candidatesContainer) {
   displayCandidates(userDistrict, userState);  
-  if(userID==="1"){
+  if(userID==="5"){
     const dashboardContainer = document.getElementById("dashboard");
     dashboardContainer.setAttribute("style","display:inline-block");
   }
