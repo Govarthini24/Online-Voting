@@ -23,6 +23,14 @@ body {
  background-size: cover;
 }
 
+.project-name {
+  text-align: center;
+  color: #800080;
+  font-size: 60px;
+  
+  
+}
+
 
 .forms-section {
   display: flex;
@@ -91,7 +99,8 @@ margin-top: 24px;
 }
 
 .form-wrapper.is-active .switcher-login {
-  color: #000;
+  color:  #000;
+  font-size: 22px;
   /* transform: translateX(90px); */
 }
 
