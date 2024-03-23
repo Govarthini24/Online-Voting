@@ -8,7 +8,19 @@ body {
   margin: 0;
   font-family: Roboto, -apple-system, "Helvetica Neue", "Segoe UI", Arial,
     sans-serif;
-  background: #3b4465;
+    height: 100vh;
+ 
+
+ 
+}
+
+.bg {
+  background: url(./img/VVPAT-Election-voting.jpg);
+  height: 100%;
+ /* Center and scale the image nicely */
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
 }
 
 
@@ -79,7 +91,7 @@ margin-top: 24px;
 }
 
 .form-wrapper.is-active .switcher-login {
-  color: #fff;
+  color: #000;
   /* transform: translateX(90px); */
 }
 
